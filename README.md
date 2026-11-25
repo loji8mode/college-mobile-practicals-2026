@@ -13,6 +13,7 @@
 | Practical_11 | 12 | JSON POST через dio та Request Catcher |
 | Practical_12 | 12 (частина 2) | Стани запитів, DioException та типізований GET |
 | Practical_13 | 13 | Нотатки SQLite та збереження LIFO |
+| Practical_14 | 13 (частина 2) | CRUD, LIKE та збереження сортування |
 
 Назви папок відповідають порядку практичних у LCloud; номери в текстах викладача іноді відрізняються.
 
